@@ -23,7 +23,7 @@ print(sdev)
 med_grp=statistics.median_grouped(x)
 print(med_grp)
 
-#Fractions are easy also
+#Fractions are easy al below!
 frac=[F(1,2),F(1,2),F(1,3),F(1,4)]
 mu_frac=statistics.mean(frac)
 print(mu_frac)
