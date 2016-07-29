@@ -38,7 +38,7 @@ etc.
 
 . + * ? [ ] $ ^ ( ) { } | \
 
-RE.FINADALL is very common and a lot of users may only use that. He will cover more on this later.
+RE.FINDALL is very common and a lot of users may only use that. He will cover more on this later.
 
 CODE from Automate the Boring Stuff regex Video showing a FUNCTION with other COMMANDS like RE.COMPILE and PATTERN.MATCH Method.
 
