@@ -31,8 +31,8 @@ print(statistics.median_grouped(data2))
 
 print('Variance data2 is: ',statistics.pvariance(data2))
 
-#OK now take the mean of 4 fractions
-#This works in iPython Notebook
+# OK now take the mean of 4 fractions
+# This works in iPython Notebook
 print(statistics.mean([F(1,2),F(1,2),F(1,3),F(1,4)]))
 print(statistics.mean([F(876,1437),F(7296,43781),F(1208,1655),F(988,1659)]))
 print(statistics.mean([F(6,4),F(12,8),F(69,14),F(721,562)]))
